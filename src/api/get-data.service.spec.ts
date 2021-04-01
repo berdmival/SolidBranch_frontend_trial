@@ -13,4 +13,11 @@ describe('GetDataService', () => {
   it('should be created', () => {
     expect(service).toBeTruthy();
   });
+
+  it('getData should return Observable with array of ITransaction', done => {
+    service.getData().subscribe(transactions => {
+      expect(transactions).toBeDefined()
+      done()
+    })
+  })
 });
