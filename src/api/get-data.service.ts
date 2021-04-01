@@ -2,7 +2,7 @@ import {Injectable} from '@angular/core';
 import fakeResponse from './fake-data'
 import {Observable, of} from "rxjs";
 
-export interface Itransaction {
+export interface ITransaction {
   "type": TransactionType;
   "_id": string;
   "amount": number;
@@ -26,13 +26,13 @@ export type TransactionType = 'income' | 'outcome' | 'loan' | 'investment';
 })
 export class GetDataService {
 
-  private readonly fakeData!: Itransaction[];
+  private readonly fakeData!: ITransaction[];
 
   constructor() {
-    this.fakeData = fakeResponse.data as Itransaction[]
+    this.fakeData = fakeResponse.data as ITransaction[]
   }
 
-  public getData(): Observable<Itransaction[]> {
+  public getData(): Observable<ITransaction[]> {
     return of(this.fakeData)
   }
 }
