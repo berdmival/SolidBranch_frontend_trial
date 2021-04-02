@@ -4,11 +4,13 @@ import {NgModule} from '@angular/core';
 import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
 import {AmountsListComponent} from "./amounts-list/amounts-list.component";
+import { AmountsSummaryComponent } from './amounts-summary/amounts-summary.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    AmountsListComponent
+    AmountsListComponent,
+    AmountsSummaryComponent
   ],
   imports: [
     BrowserModule,
