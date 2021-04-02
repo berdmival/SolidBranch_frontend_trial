@@ -5,12 +5,16 @@ import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
 import {AmountsListComponent} from "./amounts-list/amounts-list.component";
 import { AmountsSummaryComponent } from './amounts-summary/amounts-summary.component';
+import { MainSummaryCardComponent } from './amounts-summary/main-summary-card/main-summary-card.component';
+import { AmountTypeCardComponent } from './amounts-summary/amount-type-card/amount-type-card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AmountsListComponent,
-    AmountsSummaryComponent
+    AmountsSummaryComponent,
+    MainSummaryCardComponent,
+    AmountTypeCardComponent
   ],
   imports: [
     BrowserModule,
