@@ -1,7 +1,7 @@
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">{{transactions | transactionCount}}</h5>
-    <p class="card-text">{{transactionsType}}</p>
+    <p class="card-text">{{transactionsType | titlecase}}</p>
     <a href="#" class="btn btn-primary"
        [routerLink]="['/navigator']" [queryParams]="{tab:typeId}" routerLinkActive="active"
     >See all</a>

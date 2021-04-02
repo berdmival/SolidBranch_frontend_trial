@@ -5,7 +5,7 @@
         class="nav-link rounded-top rounded-3"
         [routerLink]="['/navigator']" [queryParams]="{tab:i}" routerLinkActive="active"
         aria-current="page">
-        {{type}}
+        {{type | titlecase}}
       </a>
     </li>
   </ul>
