@@ -20,6 +20,8 @@ export interface ITransactionName {
 
 export type TransactionType = 'income' | 'outcome' | 'loan' | 'investment';
 
+export const transactionTypesArray: TransactionType[] = ['income', 'outcome', 'loan', 'investment']
+
 
 @Injectable({
   providedIn: 'root'

@@ -1,31 +1,12 @@
 <div class="border rounded">
   <ul class="nav nav-tabs">
-    <li class="nav-item">
+    <li *ngFor="let type of transactionTypesList; index as i" class="nav-item">
       <a
         class="nav-link rounded-top rounded-3"
-        [routerLink]="['/navigator']" [queryParams]="{tab:0}" routerLinkActive="active"
-        (click)="setTransactionType('income')"
+        [routerLink]="['/navigator']" [queryParams]="{tab:i}" routerLinkActive="active"
         aria-current="page">
-        income
+        {{type}}
       </a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link rounded-top rounded-3"
-         [routerLink]="['/navigator']" [queryParams]="{tab:1}"
-         (click)="setTransactionType('outcome')"
-         routerLinkActive="active">outcome</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link rounded-top rounded-3"
-         [routerLink]="['/navigator']" [queryParams]="{tab:2}"
-         (click)="setTransactionType('loan')"
-         routerLinkActive="active">loan</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link rounded-top rounded-3"
-         [routerLink]="['/navigator']" [queryParams]="{tab:3}"
-         (click)="setTransactionType('investment')"
-         routerLinkActive="active">investment</a>
     </li>
   </ul>
   <div class="tab-content" id="myTabContent">
