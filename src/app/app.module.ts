@@ -7,6 +7,7 @@ import {AmountsListComponent} from "./amounts-list/amounts-list.component";
 import { AmountsSummaryComponent } from './amounts-summary/amounts-summary.component';
 import { MainSummaryCardComponent } from './amounts-summary/main-summary-card/main-summary-card.component';
 import { AmountTypeCardComponent } from './amounts-summary/amount-type-card/amount-type-card.component';
+import { TransactionCountPipe } from './pipes/transaction-count.pipe';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { AmountTypeCardComponent } from './amounts-summary/amount-type-card/amou
     AmountsListComponent,
     AmountsSummaryComponent,
     MainSummaryCardComponent,
-    AmountTypeCardComponent
+    AmountTypeCardComponent,
+    TransactionCountPipe
   ],
   imports: [
     BrowserModule,

@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-main-summary-card',
@@ -6,6 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./main-summary-card.component.scss']
 })
 export class MainSummaryCardComponent implements OnInit {
+
+  @Input()
+  totalCount!: number;
 
   constructor() { }
 
