@@ -8,6 +8,7 @@ import { AmountsSummaryComponent } from './amounts-summary/amounts-summary.compo
 import { MainSummaryCardComponent } from './amounts-summary/main-summary-card/main-summary-card.component';
 import { AmountTypeCardComponent } from './amounts-summary/amount-type-card/amount-type-card.component';
 import { TransactionCountPipe } from './pipes/transaction-count.pipe';
+import { FullNamePipe } from './pipes/full-name.pipe';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { TransactionCountPipe } from './pipes/transaction-count.pipe';
     AmountsSummaryComponent,
     MainSummaryCardComponent,
     AmountTypeCardComponent,
-    TransactionCountPipe
+    TransactionCountPipe,
+    FullNamePipe
   ],
   imports: [
     BrowserModule,

@@ -22,7 +22,7 @@
       <li *ngFor="let transaction of $transactionsList | async"
           class="list-group-item d-flex justify-content-around align-items-center">
         <div>
-          {{transaction.name.first}} {{transaction.name.last}}
+          {{transaction.name | fullName}}
         </div>
         <div>
           {{transaction.amount}}
