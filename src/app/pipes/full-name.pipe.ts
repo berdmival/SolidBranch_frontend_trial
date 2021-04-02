@@ -7,7 +7,7 @@ import {ITransactionName} from "../../api/get-data.service";
 export class FullNamePipe implements PipeTransform {
 
   transform(transactionName: ITransactionName): string {
-    return transactionName.first + ' ' + transactionName.last;
+    return `${transactionName.first} ${transactionName.last}`;
   }
 
 }
