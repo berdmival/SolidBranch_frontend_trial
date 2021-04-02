@@ -3,7 +3,7 @@
   "data": [
     {
       "_id": "5d99beb677015a5c2c14542e",
-      "amount": "1019.52",
+      "amount": 1019.52,
       "type": "outcome",
       "name": {
         "first": "Jordan",
@@ -16,7 +16,7 @@
     },
     {
       "_id": "5d99beb69a6aac64be820dbe",
-      "amount": "3632.23",
+      "amount": 3632.23,
       "type": "outcome",
       "name": {
         "first": "Francis",
@@ -29,7 +29,7 @@
     },
     {
       "_id": "5d99beb635dd82195040195b",
-      "amount": "3359.44",
+      "amount": 3359.44,
       "type": "outcome",
       "name": {
         "first": "Bass",
@@ -42,7 +42,7 @@
     },
     {
       "_id": "5d99beb6283bac04b3763000",
-      "amount": "1233.65",
+      "amount": 1233.65,
       "type": "outcome",
       "name": {
         "first": "Mabel",
@@ -55,7 +55,7 @@
     },
     {
       "_id": "5d99beb6207f35413c9b629b",
-      "amount": "2244.81",
+      "amount": 2244.81,
       "type": "loan",
       "name": {
         "first": "Lambert",
@@ -68,7 +68,7 @@
     },
     {
       "_id": "5d99beb6f6db754cee0835a0",
-      "amount": "1481.53",
+      "amount": 1481.53,
       "type": "income",
       "name": {
         "first": "Jeanie",
@@ -81,7 +81,7 @@
     },
     {
       "_id": "5d99beb6c0c5d1e73c8bb5a2",
-      "amount": "3684.31",
+      "amount": 3684.31,
       "type": "income",
       "name": {
         "first": "Lynn",
@@ -94,7 +94,7 @@
     },
     {
       "_id": "5d99beb69aec11b778e276c9",
-      "amount": "3703.23",
+      "amount": 3703.23,
       "type": "investment",
       "name": {
         "first": "Roseann",
@@ -107,7 +107,7 @@
     },
     {
       "_id": "5d99beb61851f0fadfe6bca0",
-      "amount": "1121.87",
+      "amount": 1121.87,
       "type": "loan",
       "name": {
         "first": "Dianna",
@@ -120,7 +120,7 @@
     },
     {
       "_id": "5d99beb61894e3a0d8a8aaeb",
-      "amount": "3597.21",
+      "amount": 3597.21,
       "type": "investment",
       "name": {
         "first": "Misty",
@@ -133,7 +133,7 @@
     },
     {
       "_id": "5d99beb6b15536f75b46a608",
-      "amount": "2445.69",
+      "amount": 2445.69,
       "type": "investment",
       "name": {
         "first": "Tammie",
@@ -146,7 +146,7 @@
     },
     {
       "_id": "5d99beb62fc237aa62133abc",
-      "amount": "2422.72",
+      "amount": 2422.72,
       "type": "income",
       "name": {
         "first": "Rasmussen",
@@ -159,7 +159,7 @@
     },
     {
       "_id": "5d99beb6e0f76b46c0f5ce21",
-      "amount": "2249.77",
+      "amount": 2249.77,
       "type": "outcome",
       "name": {
         "first": "Allie",
@@ -172,7 +172,7 @@
     },
     {
       "_id": "5d99beb67ba49c6e156b8999",
-      "amount": "2982.24",
+      "amount": 2982.24,
       "type": "investment",
       "name": {
         "first": "Hammond",
@@ -185,7 +185,7 @@
     },
     {
       "_id": "5d99beb6b13450897a61c8b0",
-      "amount": "2247.23",
+      "amount": 2247.23,
       "type": "loan",
       "name": {
         "first": "Scott",
@@ -198,7 +198,7 @@
     },
     {
       "_id": "5d99beb6f9f4e1748d85a971",
-      "amount": "418.41",
+      "amount": 418.41,
       "type": "outcome",
       "name": {
         "first": "Alexander",
@@ -211,7 +211,7 @@
     },
     {
       "_id": "5d99beb600162e31cce6d255",
-      "amount": "660.24",
+      "amount": 660.24,
       "type": "loan",
       "name": {
         "first": "Letitia",
@@ -224,7 +224,7 @@
     },
     {
       "_id": "5d99beb6f46990cdedd7a054",
-      "amount": "3114.48",
+      "amount": 3114.48,
       "type": "loan",
       "name": {
         "first": "Myers",
@@ -237,7 +237,7 @@
     },
     {
       "_id": "5d99beb68066435dd603b971",
-      "amount": "2157.64",
+      "amount": 2157.64,
       "type": "outcome",
       "name": {
         "first": "Daphne",
@@ -250,7 +250,7 @@
     },
     {
       "_id": "5d99beb6481acdc4f1f2dbcd",
-      "amount": "3711.7",
+      "amount": 3711.7,
       "type": "loan",
       "name": {
         "first": "Dillon",
@@ -263,7 +263,7 @@
     },
     {
       "_id": "5d99beb66abe615580c7868c",
-      "amount": "2429.6",
+      "amount": 2429.6,
       "type": "income",
       "name": {
         "first": "Reese",
@@ -276,7 +276,7 @@
     },
     {
       "_id": "5d99beb6cf9df8720ce4e771",
-      "amount": "2743.79",
+      "amount": 2743.79,
       "type": "investment",
       "name": {
         "first": "Howard",
@@ -289,7 +289,7 @@
     },
     {
       "_id": "5d99beb6022f6189a1f23970",
-      "amount": "2047.52",
+      "amount": 2047.52,
       "type": "loan",
       "name": {
         "first": "Kathleen",
@@ -302,7 +302,7 @@
     },
     {
       "_id": "5d99beb6230c62aa8243ff80",
-      "amount": "3802.33",
+      "amount": 3802.33,
       "type": "outcome",
       "name": {
         "first": "Amparo",
@@ -315,7 +315,7 @@
     },
     {
       "_id": "5d99beb6f7f32d24da875f1b",
-      "amount": "3995.23",
+      "amount": 3995.23,
       "type": "investment",
       "name": {
         "first": "Acevedo",
@@ -328,7 +328,7 @@
     },
     {
       "_id": "5d99beb68b54b0c3a0ef3470",
-      "amount": "2330.5",
+      "amount": 2330.5,
       "type": "income",
       "name": {
         "first": "Moore",
@@ -341,7 +341,7 @@
     },
     {
       "_id": "5d99beb6b7490a9aacc00b1a",
-      "amount": "2455.98",
+      "amount": 2455.98,
       "type": "investment",
       "name": {
         "first": "Ina",
@@ -354,7 +354,7 @@
     },
     {
       "_id": "5d99beb64e9dfcb53acd8626",
-      "amount": "3551.26",
+      "amount": 3551.26,
       "type": "outcome",
       "name": {
         "first": "Dorsey",
@@ -367,7 +367,7 @@
     },
     {
       "_id": "5d99beb6f53bb9cc0b870839",
-      "amount": "3877.53",
+      "amount": 3877.53,
       "type": "loan",
       "name": {
         "first": "Wolfe",
@@ -380,7 +380,7 @@
     },
     {
       "_id": "5d99beb626d3124fa91e7429",
-      "amount": "3157.17",
+      "amount": 3157.17,
       "type": "outcome",
       "name": {
         "first": "Manning",
@@ -393,7 +393,7 @@
     },
     {
       "_id": "5d99beb664a4e4c72591f9a3",
-      "amount": "211.53",
+      "amount": 211.53,
       "type": "income",
       "name": {
         "first": "Tucker",
@@ -406,7 +406,7 @@
     },
     {
       "_id": "5d99beb66b24688a0de700a0",
-      "amount": "1394.91",
+      "amount": 1394.91,
       "type": "outcome",
       "name": {
         "first": "Skinner",
@@ -419,7 +419,7 @@
     },
     {
       "_id": "5d99beb6c0dba22f51f3adc2",
-      "amount": "926.1",
+      "amount": 926.1,
       "type": "investment",
       "name": {
         "first": "Farrell",
@@ -432,7 +432,7 @@
     },
     {
       "_id": "5d99beb6d3647cf8b14c9409",
-      "amount": "1764.72",
+      "amount": 1764.72,
       "type": "income",
       "name": {
         "first": "Cathy",
@@ -445,7 +445,7 @@
     },
     {
       "_id": "5d99beb698d1fbade2a863a3",
-      "amount": "2798.26",
+      "amount": 2798.26,
       "type": "outcome",
       "name": {
         "first": "Lindsey",
@@ -458,7 +458,7 @@
     },
     {
       "_id": "5d99beb633f3e5c3e8378aa7",
-      "amount": "185.58",
+      "amount": 185.58,
       "type": "outcome",
       "name": {
         "first": "Key",
@@ -471,7 +471,7 @@
     },
     {
       "_id": "5d99beb6af9bf2e627e8f6ad",
-      "amount": "1602.9",
+      "amount": 1602.9,
       "type": "outcome",
       "name": {
         "first": "Mueller",
@@ -484,7 +484,7 @@
     },
     {
       "_id": "5d99beb6967feb03ef03b2e9",
-      "amount": "3865.85",
+      "amount": 3865.85,
       "type": "investment",
       "name": {
         "first": "Stacey",
@@ -497,7 +497,7 @@
     },
     {
       "_id": "5d99beb6069071371bb4fe57",
-      "amount": "744.67",
+      "amount": 744.67,
       "type": "investment",
       "name": {
         "first": "Fitzpatrick",
@@ -510,7 +510,7 @@
     },
     {
       "_id": "5d99beb645e90e295a14abaf",
-      "amount": "1172.42",
+      "amount": 1172.42,
       "type": "investment",
       "name": {
         "first": "Sanchez",
@@ -523,7 +523,7 @@
     },
     {
       "_id": "5d99beb65b3f217fd4c9fe32",
-      "amount": "370.68",
+      "amount": 370.68,
       "type": "loan",
       "name": {
         "first": "Christian",
@@ -536,7 +536,7 @@
     },
     {
       "_id": "5d99beb690336c6b9a82eb4a",
-      "amount": "2796.77",
+      "amount": 2796.77,
       "type": "outcome",
       "name": {
         "first": "Jodie",
@@ -549,7 +549,7 @@
     },
     {
       "_id": "5d99beb6c3b33f427845205d",
-      "amount": "378.77",
+      "amount": 378.77,
       "type": "outcome",
       "name": {
         "first": "Conley",
@@ -562,7 +562,7 @@
     },
     {
       "_id": "5d99beb6121ba61ba9c779bc",
-      "amount": "430.7",
+      "amount": 430.7,
       "type": "loan",
       "name": {
         "first": "Janell",
@@ -575,7 +575,7 @@
     },
     {
       "_id": "5d99beb6e7771bb8cff666d6",
-      "amount": "2017.28",
+      "amount": 2017.28,
       "type": "outcome",
       "name": {
         "first": "Ward",
@@ -588,7 +588,7 @@
     },
     {
       "_id": "5d99beb6086149feeefc2e66",
-      "amount": "3064.39",
+      "amount": 3064.39,
       "type": "loan",
       "name": {
         "first": "Hogan",
@@ -601,7 +601,7 @@
     },
     {
       "_id": "5d99beb6ff11eacb34de4f10",
-      "amount": "1965.69",
+      "amount": 1965.69,
       "type": "loan",
       "name": {
         "first": "Inez",
@@ -614,7 +614,7 @@
     },
     {
       "_id": "5d99beb60be55eb1da68c4ba",
-      "amount": "3762.75",
+      "amount": 3762.75,
       "type": "loan",
       "name": {
         "first": "Bridges",
@@ -627,7 +627,7 @@
     },
     {
       "_id": "5d99beb64337005cefde4626",
-      "amount": "1870.31",
+      "amount": 1870.31,
       "type": "loan",
       "name": {
         "first": "Grimes",
@@ -640,7 +640,7 @@
     },
     {
       "_id": "5d99beb6f7e4e652c75868a8",
-      "amount": "3710.36",
+      "amount": 3710.36,
       "type": "investment",
       "name": {
         "first": "Shepherd",
@@ -653,7 +653,7 @@
     },
     {
       "_id": "5d99beb63c892055952c1908",
-      "amount": "784.11",
+      "amount": 784.11,
       "type": "investment",
       "name": {
         "first": "Morris",
@@ -666,7 +666,7 @@
     },
     {
       "_id": "5d99beb6c614fe4c8ca3c023",
-      "amount": "297.67",
+      "amount": 297.67,
       "type": "investment",
       "name": {
         "first": "Josie",
@@ -679,7 +679,7 @@
     },
     {
       "_id": "5d99beb6558891537809623e",
-      "amount": "804.95",
+      "amount": 804.95,
       "type": "loan",
       "name": {
         "first": "Hall",
@@ -692,7 +692,7 @@
     },
     {
       "_id": "5d99beb6a5060fbac46cc79d",
-      "amount": "2712.56",
+      "amount": 2712.56,
       "type": "investment",
       "name": {
         "first": "Perkins",
@@ -705,7 +705,7 @@
     },
     {
       "_id": "5d99beb68533edf2fdc241bb",
-      "amount": "1051.57",
+      "amount": 1051.57,
       "type": "investment",
       "name": {
         "first": "Bender",
@@ -718,7 +718,7 @@
     },
     {
       "_id": "5d99beb6ba779217e965a21c",
-      "amount": "830.78",
+      "amount": 830.78,
       "type": "outcome",
       "name": {
         "first": "Boone",
@@ -731,7 +731,7 @@
     },
     {
       "_id": "5d99beb6ffddf4af466b7a06",
-      "amount": "3961.21",
+      "amount": 3961.21,
       "type": "income",
       "name": {
         "first": "Cathleen",
@@ -744,7 +744,7 @@
     },
     {
       "_id": "5d99beb6d927af5635543e87",
-      "amount": "2624.06",
+      "amount": 2624.06,
       "type": "investment",
       "name": {
         "first": "Marcia",
@@ -757,7 +757,7 @@
     },
     {
       "_id": "5d99beb6b0699f34547ef9cd",
-      "amount": "918.63",
+      "amount": 918.63,
       "type": "outcome",
       "name": {
         "first": "Claire",
@@ -770,7 +770,7 @@
     },
     {
       "_id": "5d99beb61eac41d3bcaeea76",
-      "amount": "2667.05",
+      "amount": 2667.05,
       "type": "income",
       "name": {
         "first": "Gardner",
@@ -783,7 +783,7 @@
     },
     {
       "_id": "5d99beb6ef3b7cd3990499d8",
-      "amount": "1967.3",
+      "amount": 1967.3,
       "type": "outcome",
       "name": {
         "first": "Mercer",
@@ -796,7 +796,7 @@
     },
     {
       "_id": "5d99beb6815f3f77883aaf66",
-      "amount": "2743.84",
+      "amount": 2743.84,
       "type": "investment",
       "name": {
         "first": "Rebecca",
@@ -809,7 +809,7 @@
     },
     {
       "_id": "5d99beb6adcc0c81c5e63963",
-      "amount": "508.15",
+      "amount": 508.15,
       "type": "outcome",
       "name": {
         "first": "Church",
@@ -822,7 +822,7 @@
     },
     {
       "_id": "5d99beb685d74a082da6bc67",
-      "amount": "1611.74",
+      "amount": 1611.74,
       "type": "investment",
       "name": {
         "first": "Jocelyn",
@@ -835,7 +835,7 @@
     },
     {
       "_id": "5d99beb688c61720ca3ce583",
-      "amount": "3421.23",
+      "amount": 3421.23,
       "type": "investment",
       "name": {
         "first": "Virginia",
@@ -848,7 +848,7 @@
     },
     {
       "_id": "5d99beb6639c96a75559eeac",
-      "amount": "994.75",
+      "amount": 994.75,
       "type": "investment",
       "name": {
         "first": "Odonnell",
@@ -861,7 +861,7 @@
     },
     {
       "_id": "5d99beb67a6153f9b5df016e",
-      "amount": "2781.38",
+      "amount": 2781.38,
       "type": "income",
       "name": {
         "first": "Tia",
@@ -874,7 +874,7 @@
     },
     {
       "_id": "5d99beb6fb959e811bd36cb4",
-      "amount": "3277.97",
+      "amount": 3277.97,
       "type": "loan",
       "name": {
         "first": "Duran",
@@ -887,7 +887,7 @@
     },
     {
       "_id": "5d99beb64ffa3eefb4f844ae",
-      "amount": "2166.94",
+      "amount": 2166.94,
       "type": "outcome",
       "name": {
         "first": "Margo",
@@ -900,7 +900,7 @@
     },
     {
       "_id": "5d99beb626a11674d75bba44",
-      "amount": "2463.58",
+      "amount": 2463.58,
       "type": "income",
       "name": {
         "first": "Lyons",
@@ -913,7 +913,7 @@
     },
     {
       "_id": "5d99beb6b6d969195fff486f",
-      "amount": "312.04",
+      "amount": 312.04,
       "type": "investment",
       "name": {
         "first": "Gonzales",
@@ -926,7 +926,7 @@
     },
     {
       "_id": "5d99beb6e28b54e75b93127f",
-      "amount": "3425.48",
+      "amount": 3425.48,
       "type": "loan",
       "name": {
         "first": "Larsen",
@@ -939,7 +939,7 @@
     },
     {
       "_id": "5d99beb62ddbe863c0e68462",
-      "amount": "3237.17",
+      "amount": 3237.17,
       "type": "outcome",
       "name": {
         "first": "Bradshaw",
@@ -952,7 +952,7 @@
     },
     {
       "_id": "5d99beb6064d6307872d67d3",
-      "amount": "267.76",
+      "amount": 267.76,
       "type": "outcome",
       "name": {
         "first": "Leta",
@@ -965,7 +965,7 @@
     },
     {
       "_id": "5d99beb6410994433c7d1eba",
-      "amount": "3126.85",
+      "amount": 3126.85,
       "type": "investment",
       "name": {
         "first": "Baxter",
@@ -978,7 +978,7 @@
     },
     {
       "_id": "5d99beb65bf1a846313590f0",
-      "amount": "1665.1",
+      "amount": 1665.1,
       "type": "investment",
       "name": {
         "first": "Chen",
@@ -991,7 +991,7 @@
     },
     {
       "_id": "5d99beb6fc1c67e102aee9e7",
-      "amount": "1220.68",
+      "amount": 1220.68,
       "type": "loan",
       "name": {
         "first": "Mcfarland",
@@ -1004,7 +1004,7 @@
     },
     {
       "_id": "5d99beb63a32d412427672da",
-      "amount": "3100.23",
+      "amount": 3100.23,
       "type": "outcome",
       "name": {
         "first": "Hernandez",
@@ -1017,7 +1017,7 @@
     },
     {
       "_id": "5d99beb61f78f116aafaad7b",
-      "amount": "3214.48",
+      "amount": 3214.48,
       "type": "income",
       "name": {
         "first": "Katina",
@@ -1030,7 +1030,7 @@
     },
     {
       "_id": "5d99beb6abc50cae2376910a",
-      "amount": "2242.76",
+      "amount": 2242.76,
       "type": "loan",
       "name": {
         "first": "Tanya",
@@ -1043,7 +1043,7 @@
     },
     {
       "_id": "5d99beb6a6c3c2ca5dcb855c",
-      "amount": "337.27",
+      "amount": 337.27,
       "type": "loan",
       "name": {
         "first": "Tillman",
@@ -1056,7 +1056,7 @@
     },
     {
       "_id": "5d99beb695b05943e5dd78dd",
-      "amount": "241.37",
+      "amount": 241.37,
       "type": "outcome",
       "name": {
         "first": "Maria",
@@ -1069,7 +1069,7 @@
     },
     {
       "_id": "5d99beb6608b27c39d17ce02",
-      "amount": "3686.05",
+      "amount": 3686.05,
       "type": "loan",
       "name": {
         "first": "Sondra",
@@ -1082,7 +1082,7 @@
     },
     {
       "_id": "5d99beb649dcf9042e8ebf3e",
-      "amount": "2070.05",
+      "amount": 2070.05,
       "type": "income",
       "name": {
         "first": "Carpenter",
@@ -1095,7 +1095,7 @@
     },
     {
       "_id": "5d99beb6eff39a753c169f9c",
-      "amount": "3345.59",
+      "amount": 3345.59,
       "type": "investment",
       "name": {
         "first": "Christina",
@@ -1108,7 +1108,7 @@
     },
     {
       "_id": "5d99beb634e062b7a7bca29b",
-      "amount": "3014.03",
+      "amount": 3014.03,
       "type": "income",
       "name": {
         "first": "Anna",
@@ -1121,7 +1121,7 @@
     },
     {
       "_id": "5d99beb6fd10ed3634a91a16",
-      "amount": "1455.57",
+      "amount": 1455.57,
       "type": "loan",
       "name": {
         "first": "Yolanda",
@@ -1134,7 +1134,7 @@
     },
     {
       "_id": "5d99beb67d581d81e0038c8e",
-      "amount": "244.56",
+      "amount": 244.56,
       "type": "outcome",
       "name": {
         "first": "Kristi",
@@ -1147,7 +1147,7 @@
     },
     {
       "_id": "5d99beb654a34b0559076fe6",
-      "amount": "2745.67",
+      "amount": 2745.67,
       "type": "investment",
       "name": {
         "first": "Stacie",
@@ -1160,7 +1160,7 @@
     },
     {
       "_id": "5d99beb6b28061f866d2c339",
-      "amount": "677.83",
+      "amount": 677.83,
       "type": "outcome",
       "name": {
         "first": "Bonner",
@@ -1173,7 +1173,7 @@
     },
     {
       "_id": "5d99beb65814fce715011141",
-      "amount": "3127.78",
+      "amount": 3127.78,
       "type": "investment",
       "name": {
         "first": "Graciela",
@@ -1186,7 +1186,7 @@
     },
     {
       "_id": "5d99beb62061d5009c894004",
-      "amount": "3200.43",
+      "amount": 3200.43,
       "type": "loan",
       "name": {
         "first": "Marsha",
@@ -1199,7 +1199,7 @@
     },
     {
       "_id": "5d99beb66941cc9e3e358edd",
-      "amount": "1892.03",
+      "amount": 1892.03,
       "type": "loan",
       "name": {
         "first": "Ladonna",
@@ -1212,7 +1212,7 @@
     },
     {
       "_id": "5d99beb669a12f644f5139ee",
-      "amount": "1345.13",
+      "amount": 1345.13,
       "type": "outcome",
       "name": {
         "first": "Alta",
@@ -1225,7 +1225,7 @@
     },
     {
       "_id": "5d99beb6d97a1b21014e5ff1",
-      "amount": "2643.11",
+      "amount": 2643.11,
       "type": "income",
       "name": {
         "first": "Ayala",
@@ -1251,7 +1251,7 @@
     },
     {
       "_id": "5d99beb645a511c0f6bce20b",
-      "amount": "1305.77",
+      "amount": 1305.77,
       "type": "income",
       "name": {
         "first": "Rhodes",
@@ -1264,7 +1264,7 @@
     },
     {
       "_id": "5d99beb6a22b596eaf635fd1",
-      "amount": "3504.15",
+      "amount": 3504.15,
       "type": "loan",
       "name": {
         "first": "Bond",
@@ -1277,7 +1277,7 @@
     },
     {
       "_id": "5d99beb65daa71ef83ec6f57",
-      "amount": "1668.05",
+      "amount": 1668.05,
       "type": "income",
       "name": {
         "first": "Curry",
@@ -1290,7 +1290,7 @@
     },
     {
       "_id": "5d99beb60457512fe012d3c8",
-      "amount": "382.48",
+      "amount": 382.48,
       "type": "income",
       "name": {
         "first": "Rhoda",
