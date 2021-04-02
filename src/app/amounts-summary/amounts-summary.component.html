@@ -1,6 +1,10 @@
 <div class="d-flex flex-column">
   <app-main-summary-card [totalCount]="$transactionList | async | transactionCount"></app-main-summary-card>
   <div class="row row-cols-2">
-    <app-amount-type-card *ngFor="let type of transactionTypesList; index as i" class="col"></app-amount-type-card>
+    <app-amount-type-card *ngFor="let type of transactionTypesList; index as i" class="col"
+                          [transactions]="filterTransactionsByType(type) | async"
+                          [transactionsType]="type"
+                          [typeId]="i"
+    ></app-amount-type-card>
   </div>
 </div>

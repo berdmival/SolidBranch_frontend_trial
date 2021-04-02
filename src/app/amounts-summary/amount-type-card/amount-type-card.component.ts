@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
+import {ITransaction, TransactionType} from "../../../api/get-data.service";
 
 @Component({
   selector: 'app-amount-type-card',
@@ -6,6 +7,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./amount-type-card.component.scss']
 })
 export class AmountTypeCardComponent implements OnInit {
+
+  @Input()
+  transactions!: ITransaction[] | null;
+
+  @Input()
+  transactionsType!: TransactionType;
+
+  @Input()
+  typeId!: number;
 
   constructor() { }
 
